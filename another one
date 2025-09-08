@@ -20,3 +20,18 @@ else
 
     Console.WriteLine("NIE");
 
+
+//zad 3
+
+//zad 3
+
+int wiek = int.Parse(Console.ReadLine());
+if (wiek >= 18) 
+
+Console.WriteLine("TAK");
+else
+{
+    Console.WriteLine("NIE");
+}
+
+
